@@ -21,6 +21,9 @@ p {
     font-size: 25px;
     color: black;
 }
+.underline {
+    text-decoration: underline;
+}
 a {
     text-decoration: none;
     color: white;
@@ -40,4 +43,5 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
+    word-spacing: 30px;
 }
