@@ -4,8 +4,6 @@ header {
     text-align: center;
 }
 main {
-    font-size: 25px;
-    color: black;
     text-align: center;
     width: 800px;
     margin: auto;
@@ -13,35 +11,31 @@ main {
 section {
     color: #50858B;
     font-size: 40px;
-    text-align: center;
-    margin: auto;
-    width: 700px;
 }
 p {
     font-size: 25px;
     color: black;
 }
-.underline {
-    text-decoration: underline;
-}
+    .underline {
+        text-decoration: underline;
+    }
 a {
     text-decoration: none;
     color: white;
 }
-a:hover {
-    text-decoration: underline;
-}
+    a:hover {
+        text-decoration: underline;
+    }
 footer {
-    text-align: center;
     vertical-align: middle;
-    line-height:100px;
+    line-height:70px;
+    word-spacing: 30px;
     color: white;
     font-size: 25px;
     background-color: #50858B;
-    height: 100px;
+    height: 70px;
     position: absolute;
     right: 0;
     bottom: 0;
     left: 0;
-    word-spacing: 30px;
 }
